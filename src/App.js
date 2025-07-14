@@ -317,7 +317,7 @@ const experience = [
       </div>
   {/* Resume button */}
   <motion.a
-    href="/Darshika_Saxena_Resume.pdf"
+    href="/Darshika__Resume_.pdf"
     download="Darshika_Saxena_Resume.pdf"
     className="inline-flex items-center px-6 py-3 bg-gradient-to-r from-purple-500 to-pink-500 
                text-white rounded-lg shadow-lg hover:from-purple-600 hover:to-pink-600 
